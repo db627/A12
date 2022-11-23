@@ -1,0 +1,16 @@
+*{
+    font-family: 'Courier New', Courier, monospace;
+    padding: 0;
+    margin: 0;
+}
+
+body{
+    font-size: 1rem;
+}
+
+.subcontainer{
+    width: 85%;
+    margin-top: 100px;
+    text-align: center;
+}
+
